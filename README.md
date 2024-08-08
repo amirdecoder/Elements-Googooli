@@ -17,7 +17,7 @@ This project is written with html,css and Javascript
 <table>
   <tr>
     <td>
-     <img align="center" src="https://github.com/amirdecoder/Elements-Googooli/blob/main/Screenshot/ElementGoogooli.png" />
+     <img align="center" src="https://github.com/amirdecoder/File/blob/main/Domain-Name-System/Screenshot/Screenshot%202024-08-09%20030231.png" />
    </td>
   </tr>
 </table>
